@@ -1,0 +1,16 @@
+		User Manual
+1. About Interface
+1.1. The Button
+Including buttons from 0 -> 9, sin, cos ,tan, negative, 1/x, C(clear), √ , + , - , *, /, .
+1.2 The Menu
+Including Exit, Information About App, UserManual
+2. About Function
+2.1.Operator
+_ Unary Operator :1/x, √, sin, cos, tan, negative
+_ Binary Math : +, -, *, / 
+2.2.How To Calculate The Express
+Example: If You Want To Calculate exp: sin((9+6)/3)*2+PI You Can Do Like This:
+Click Buttons :9 + 6 / 3 sin * 2 + PI =
+2.3.Error
+If You Input Wrong Syntax Of Express, The Notice Will Be Apeared On The Screen
+Example: +++9 , sin , 9 - 6 +
